@@ -50,7 +50,7 @@ require 'selenium-webdriver'
 @browser.find_element(:xpath,'//*[@id="project_name"]').send_keys 'My first project.'
 @browser.find_element(id: 'project_identifier').send_keys '666'
 @browser.find_element(:xpath, '//*[@id="new_project"]/input[2]').click
-#
+#first home work
 
 
 
